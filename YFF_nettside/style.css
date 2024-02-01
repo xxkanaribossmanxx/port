@@ -1,0 +1,39 @@
+body{
+    background-color: gray
+}
+
+h1{
+  color: white;
+  text-align: center;
+}
+.fist{
+    position: relative;
+    height: 500px;
+    width: 500px;
+    left: 370px;
+}
+.uncle{
+    position: relative;
+    height: 500px;
+    width: 500px;
+    left: 375px;
+}
+.tenpack{
+    position: relative;
+    height: 500px;
+    width: 500px;
+    left: 370px;
+}
+.giant{
+    position: relative;
+    height: 500px;
+    width: 500px;
+    left: 375px;
+}
+div{
+    padding-top: 50px;
+  padding-right: 300px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  background-color: black;
+}
